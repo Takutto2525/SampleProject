@@ -10,6 +10,8 @@ BoxObject::BoxObject():
 {
 	//‰æ‘œ‚ğ“Ç‚İ‚Ş
 	boxID = LoadGraph("Resources/Textures/ground.png");
+
+	//GitHub
 }
 
 
