@@ -16,6 +16,8 @@ BoxObject::BoxObject():
 //デストラクタ
 BoxObject::~BoxObject()
 {
+
+	Finalize();
 }
 
 //初期化
